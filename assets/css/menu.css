@@ -1,0 +1,9 @@
+.menu__link{
+    color: #333333;
+    padding: .5rem 1rem;
+}
+
+/* Quando o cursor estiver sobre o link ele deve aparecer suplinhando, bem como quando o link estiver ativo (clicado) */
+.menu__link:hover, .menu__link.ativo{
+    border-bottom: 2px solid #0073e6;
+}
