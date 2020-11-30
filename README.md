@@ -1,6 +1,6 @@
 <h1>Grid Template</h1>
 
-<img src="gridlayout.gif">
+<img src="./assets/img/gridlayout.gif">
 
 ---
 
